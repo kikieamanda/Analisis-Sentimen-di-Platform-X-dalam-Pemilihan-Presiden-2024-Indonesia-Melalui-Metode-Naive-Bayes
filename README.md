@@ -1,0 +1,2 @@
+# Analisis-Sentimen-di-Platform-X-dalam-Pemilihan-Presiden-2024-Indonesia-Melalui-Metode-Naive-Bayes
+In the 2024 presidential election, sentiment analysis on platform X gauges candidate popularity. This study: 1) Identifies opinion patterns, 2) Evaluates Naive Bayes accuracy, 3) Analyzes positive and negative sentiments. Findings: 1) "Ganjar" is most discussed, 2) Naive Bayes accuracy is 62.5%, 3) Positive sentiment is 43.75%, negative is 81.25%.
